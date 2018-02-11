@@ -22,6 +22,7 @@
 		<module>sbtest-discovery</module>
 		<module>sbtest-client</module>
 		<module>sbtest-ribbon</module>
+		<module>sbtest-feign</module>
 	</modules>
 
 	<properties>
